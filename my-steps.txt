@@ -86,7 +86,9 @@ mkdir drinks rm -r drinks
 
 
 ### Step 6
-
+Git add .
+Git commit - m 'starting a menu
+Git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
